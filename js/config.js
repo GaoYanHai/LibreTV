@@ -176,8 +176,7 @@ const API_SITES = {
         },
         api_12: {
             name: 'TV-卧龙资源',
-            api: 'https://collect.wolongzy.cc/api.php/provide/vod',
-            detail: 
+            api: 'https://collect.wolongzy.cc/api.php/provide/vod'
         },
         api_13: {
             name: 'TV-卧龙资源',
@@ -191,8 +190,7 @@ const API_SITES = {
         },
         api_15: {
             name: 'TV-如意资源',
-            api: 'https://cj.rycjapi.com/api.php/provide/vod',
-            detail: 
+            api: 'https://cj.rycjapi.com/api.php/provide/vod'
         },
         api_16: {
             name: 'TV-小猫咪资源',
@@ -206,18 +204,15 @@ const API_SITES = {
         },
         api_18: {
             'name: TV-无尽资源',
-            'api: https://api.wujinapi.com/api.php/provide/vod',
-            detail: 
+            'api: https://api.wujinapi.com/api.php/provide/vod'
         },
         api_19: {
             name: 'TV-无尽资源',
-            api: 'https://api.wujinapi.me/api.php/provide/vod',
-            detail: 
+            api: 'https://api.wujinapi.me/api.php/provide/vod'
         },
         api_20: {
             name: 'TV-无尽资源',
-            api: 'https://api.wujinapi.net/api.php/provide/vod',
-            detail: 
+            api: 'https://api.wujinapi.net/api.php/provide/vod'
         },
         api_21: {
             name: 'TV-旺旺短剧',
@@ -231,8 +226,7 @@ const API_SITES = {
         },
         api_23: {
             name: 'TV-暴风资源',
-            api: 'https://bfzyapi.com/api.php/provide/vod',
-            detail: 
+            api: 'https://bfzyapi.com/api.php/provide/vod'
         },
         api_24: {
             name: 'TV-最大点播',
@@ -246,13 +240,11 @@ const API_SITES = {
         },
         api_26: {
             name: 'TV-樱花资源',
-            api: 'https://m3u8.apiyhzy.com/api.php/provide/vod',
-            detail: 
+            api: 'https://m3u8.apiyhzy.com/api.php/provide/vod'
         },
         api_27: {
             name: 'TV-步步高资源',
-            api: 'https://api.yparse.com/api/json',
-            detail: 
+            api: 'https://api.yparse.com/api/json'
         },
         api_28: {
             name: 'TV-牛牛点播',
@@ -281,8 +273,7 @@ const API_SITES = {
         },
         api_33: {
             name: 'TV-索尼资源',
-            api: 'https://suoniapi.com/api.php/provide/vod',
-            detail: 
+            api: 'https://suoniapi.com/api.php/provide/vod'
         },
         api_34: {
             name: 'TV-红牛资源',
@@ -316,13 +307,11 @@ const API_SITES = {
         },
         api_40: {
             name: 'TV-速博资源',
-            api: 'https://subocaiji.com/api.php/provide/vod',
-            detail: 
+            api: 'https://subocaiji.com/api.php/provide/vod'
         },
         api_41: {
             name:'TV-量子资源',
-            api: 'https://cj.lziapi.com/api.php/provide/vod',
-            detail: 
+            api: 'https://cj.lziapi.com/api.php/provide/vod'
         },
         api_42: {
             name: 'TV-金鹰点播',
@@ -381,8 +370,8 @@ const API_SITES = {
         },
         api_53: {
             name: 'AV-AIvin',
-            api: 'http://lbapiby.com/api.php/provide/vod',
-            detail: 
+            api: 'http://lbapiby.com/api.php/provide/vod'
+            
         },
         api_54: {
             name: 'AV-JKUN资源',
@@ -396,8 +385,8 @@ const API_SITES = {
         },
         api_56: {
             name: 'AV-乐播资源',
-            api: 'https://lbapi9.com/api.php/provide/vod',
-            detail: 
+            api: 'https://lbapi9.com/api.php/provide/vod'
+            
         },
         api_57: {
             name: 'AV-奥斯卡资源',
@@ -426,8 +415,8 @@ const API_SITES = {
         },
         api_62: {
             name: 'AV-番号资源',
-            api: 'http://fhapi9.com/api.php/provide/vod',
-            detail: 
+            api: 'http://fhapi9.com/api.php/provide/vod'
+            
         },
         api_63: {
             name: 'AV-白嫖资源',
