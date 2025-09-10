@@ -203,8 +203,8 @@ const API_SITES = {
             detail: 'https://api.xinlangapi.com'
         },
         api_18: {
-            'name: TV-无尽资源',
-            'api: https://api.wujinapi.com/api.php/provide/vod'
+            name: 'TV-无尽资源',
+            api: 'https://api.wujinapi.com/api.php/provide/vod'
         },
         api_19: {
             name: 'TV-无尽资源',
