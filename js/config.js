@@ -157,8 +157,7 @@ const API_SITES = {
         },
         api_8: {
             name: 'TV-wujinapi无尽',
-            api: 'https://api.wujinapi.cc/api.php/provide/vod',
-            detail: 
+            api: 'https://api.wujinapi.cc/api.php/provide/vod'
         },
         api_9: {
             name: 'TV-丫丫点播',
